@@ -1,0 +1,31 @@
+.container{
+    position: relative;
+}
+h2{
+    display: inline-block;
+    margin-left: 5%;
+}
+.languages{
+    position: absolute;
+    top: 10%;
+    right: 5%;
+    /* float: right; */
+}
+#textarea{
+    width: 89%;
+    height: 15rem;
+    border: 1px solid gray;
+    margin-left: 5%;
+}
+.output_container{
+    height: 7rem;
+    background-color: black;
+    color: white;
+    margin: 2% 5% 2%;
+}
+.compile_btn{
+    background-color: yellow;
+    color: black;
+    border: 2px solid yellow;
+    margin-left: 5%;
+}
