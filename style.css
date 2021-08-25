@@ -25,13 +25,14 @@ h2{
     margin: 1% 5% 1%;
 }
 .compile_btn{
-    background-color: yellow;
+    background-color: gold;
     color: black;
-    border: 2px solid yellow;
+    border: 2px solid gold;
     margin-left: 5%;
-    padding: 2% 1%;
+    padding: 0.5% 0.5%;
 }
 .compile_btn:hover{
     background-color: gold;
     border: 2px solid gold;
+    font-weight: bold;
 }
